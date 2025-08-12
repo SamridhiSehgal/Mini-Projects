@@ -1,0 +1,21 @@
+# To-Do App
+
+## Description
+A simple, interactive To-Do application to help users manage daily tasks efficiently. Users can add new tasks, mark tasks as complete, and delete tasks. Built with fundamental web technologies: HTML for structure, CSS for styling, and JavaScript for interactivity.
+
+## Features
+- **Add New Tasks**: Quickly add to-do items to your list.
+- **Mark as Complete**: Toggle tasks as complete or incomplete.
+- **Delete Tasks**: Remove tasks from the list.
+- **Responsive Design**: Works well on desktop and mobile devices.
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+## How to Run
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/SamridhiSehgal/Mini-Projects
+   cd To_Do_App
